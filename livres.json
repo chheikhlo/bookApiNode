@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "titre": "Titre 1",
+    "auteur": "Auteur 1",
+    "prix": 20.99,
+    "description": "Description du livre 1"
+  },
+  {
+    "id": 2,
+    "titre": "Titre 2",
+    "auteur": "Auteur 2",
+    "prix": 15.99,
+    "description": "Description du livre 2"
+  },
+  {
+    "id": 3,
+    "titre": "Titre 3",
+    "auteur": "Auteur 3",
+    "prix": 20.99,
+    "description": "Description du livre 3"
+  },
+  {
+    "id": 4,
+    "titre": "Titre 4",
+    "auteur": "Auteur 4",
+    "prix": 20.99,
+    "description": "Description du livre 4"
+  }
+]
